@@ -1,1 +1,2 @@
-# GitHub-Documentation
+# Project Title: Comprehensive Documentation on Code Version Management
+**The Code Version Documentation project aims to create comprehensive documentation for version control processes, release management, and change logs for all repositories under HWAI products/projects. This documentation will help developers and stakeholders understand the versioning strategy, track changes, naming convention and ensure consistency in release management.**
